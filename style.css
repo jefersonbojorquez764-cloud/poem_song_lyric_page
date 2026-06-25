@@ -1,0 +1,38 @@
+h1{
+    color:#0a57d1;
+    font-size:50px;
+}
+
+h2{
+    color:#669ffa;
+    font-size:40px;
+}
+
+body{
+    background-color:#041e47;
+}
+
+p{
+    color:#f0f2f5;
+}
+
+.heading{
+    text-align: center;
+
+}
+
+img{
+      width: 500px;
+   padding: 20px;
+   border: 5px groove black;
+   margin: 250px;
+}
+
+#1{
+    text-align: left;
+    text-indent: 50px;
+}
+
+p{
+      text-align: left;
+    }
